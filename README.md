@@ -2,73 +2,23 @@
 
 # Hi 👋, I'm Raman Gautam
 
-### Final Year B.Tech @ IIIT Allahabad
+### Final Year B.Tech (Information Technology) @ IIIT Allahabad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creator+of+LearnSpace+IIITA;Data+Structures+%26+Algorithms;Learning+Low+Level+Design;Backend+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Real+World+Projects;Building+Scalable+Backend+Systems;Data+Structures+%26+Algorithms+Enthusiast;Backend+Developer"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Final Year B.Tech (Information Technology) at IIIT Allahabad
+🎓 Final Year B.Tech in **Information Technology** at **IIIT Allahabad**.
 
-💻 Passionate about Backend Development and Full Stack Engineering
+💻 Passionate about solving **Data Structures & Algorithms** problems and building **real-world software** that solves practical problems.
 
-🌱 Currently learning
+🚀 Interested in **Backend Development**, **Full Stack Development**, **Microservices**, and **System Design**.
 
-- Low Level Design
-- System Design
-- Backend Architecture
-
-🚀 Built **LearnSpace IIITA**, a platform for IIIT Allahabad students.
-
-🏆 Solving DSA problems daily using C++.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-
-</p>
+⚡ I enjoy designing scalable backend systems, building user-centric applications, and continuously improving my software engineering skills.
 
 ---
 
@@ -76,39 +26,127 @@
 
 ## 📚 LearnSpace IIITA
 
-A platform built for IIIT Allahabad students.
+A centralized academic platform built exclusively for **IIIT Allahabad students**, providing semester-wise learning resources in one place.
 
-### Features
+### ✨ Features
 
-- Notes
-- PYQs
-- Video Lectures
-- Admin Dashboard
-- Firebase Authentication
-- Cloudinary Storage
+- 📄 Lecture Notes
+- 📝 Previous Year Papers (PYQs)
+- 🎥 Video Lectures
+- 👨‍💼 Admin Dashboard
+- 🔐 JWT Authentication
+- 🔥 Firebase Authentication
+- ☁️ Cloudinary File Storage
+- 📱 Responsive UI
+- 🔍 SEO Optimized
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind"/>
+</p>
+
+### 🌐 Live Demo
+
+**https://learnspaceiiita.live**
 
 ---
 
-## 💻 LLD Java
+## 🔗 URL Shortener Microservice
 
-Learning Design Patterns
+A scalable URL shortening service built using **Microservice Architecture**, designed for high performance and easy scalability.
 
-- Factory
-- Builder
-- Strategy
-- Observer
-- Decorator
-- Parking Lot Design
+### ✨ Features
+
+- Generate Short URLs
+- Custom Short Links
+- URL Redirection
+- REST APIs
+- Analytics Support
+- Redis Caching
+- Dockerized Deployment
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker"/>
+</p>
+
+> 🚧 Currently under development.
 
 ---
 
-## 🏆 DSA
+# 💻 Technical Skills
 
-- Trees
-- Graphs
-- DP
-- Binary Search
-- Sliding Window
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,c"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
+</p>
+
+## Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker"/>
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+- 🚀 Microservices
+- 🏗️ System Design
+- ⚙️ Low Level Design
+- 🔥 Backend Scalability
+- 🌐 REST API Design
+
+---
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Achievement |
+|:---------:|:-----------|
+| 🟡 **LeetCode** | **Knight (Top 3%)** • Max Rating **1953** • **1500+ Problems Solved** |
+| 🟤 **CodeChef** | **2★ Competitive Programmer** • Max Rating **1597** |
+| 🔵 **Codeforces** | **Pupil** • Max Rating **1247** |
+
+</div>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/raman_845/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -116,9 +154,9 @@ Learning Design Patterns
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=r-a-m-a-n-1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-a-m-a-n-1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -128,7 +166,7 @@ Learning Design Patterns
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=r-a-m-a-n-1&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,17 +176,7 @@ Learning Design Patterns
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r-a-m-a-n-1&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -156,22 +184,22 @@ Learning Design Patterns
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/raman-gautam/?skipRedirect=true">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/raman_845/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://r-a-m-a-n-1.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:ramangautam0037@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -180,6 +208,8 @@ Learning Design Patterns
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=r-a-m-a-n-1&style=for-the-badge&color=0e75b6)
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
